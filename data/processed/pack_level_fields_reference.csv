@@ -1,0 +1,15 @@
+field_category,field_name,description,data_type
+Collection Information,State,State where pack was collected,Categorical
+Collection Information,District,District within state,Categorical
+Collection Information,Collection Date,Date of collection,Date
+Product Identification,Brand,Brand name,Categorical
+Product Identification,Variant,Variant/sub-brand,Categorical
+Product Identification,Pack Size & Type,Pack size and type (soft/hard),Categorical
+Manufacturer/Importer,Company Name,Manufacturer or importer company name,Text
+Manufacturer/Importer,Address,Company address,Text
+Tax Stamp,Tax Stamp Type,Type of tax stamp (blue/pink/none/fake),Categorical
+Tax Stamp,Tax Stamp Color,Color coding for market type,Categorical
+Compliance Checks,Health Warning Presence,Presence of health warning,Boolean
+Compliance Checks,Pictorial Health Warning,Compliance with pictorial warning requirements,Boolean
+Compliance Checks,Manufacturing Date,Manufacturing date on pack,Date
+Compliance Checks,No Sales to Under 18 Clause,Age restriction warning presence,Boolean

@@ -1,0 +1,101 @@
+pack_id,state,district,collection_date,brand,pack_size,tax_stamp_type,manufacturer,is_illegal
+1,Johor,Petaling,2024-01-01,John,12,Blue,Milton,1
+2,WP KL,Kuching,2024-01-02,John,12,Blue,Milton,1
+3,Sarawak,City Center,2024-01-03,Era,16,None,Milton,1
+4,Sabah,Kuching,2024-01-04,Booston,20,None,Neptune,1
+5,Selangor,City Center,2024-01-05,Era,20,None,Legal Co,0
+6,Selangor,City Center,2024-01-06,Canyon,16,None,Milton,0
+7,Selangor,Kota Kinabalu,2024-01-07,Gudang Garam,20,Blue,Neptune,0
+8,WP KL,City Center,2024-01-08,Era,20,Blue,JTM,1
+9,Sabah,Kuching,2024-01-09,John,20,None,JTM,1
+10,Sarawak,City Center,2024-01-10,Gudang Garam,16,Blue,Neptune,1
+11,Selangor,Kota Kinabalu,2024-01-11,Gudang Garam,20,None,Neptune,1
+12,WP KL,Kota Kinabalu,2024-01-12,John,20,Fake,Legal Co,1
+13,Sarawak,Kuching,2024-01-13,Era,20,None,Legal Co,1
+14,Johor,Johor Bahru,2024-01-14,John,20,Blue,JTM,1
+15,Selangor,Johor Bahru,2024-01-15,Booston,12,None,Milton,1
+16,Selangor,City Center,2024-01-16,Gudang Garam,20,None,JTM,0
+17,Johor,Petaling,2024-01-17,U2,20,None,Milton,1
+18,Sabah,City Center,2024-01-18,U2,16,Fake,Milton,0
+19,Johor,Kuching,2024-01-19,Canyon,20,Blue,Legal Co,1
+20,Johor,Kuching,2024-01-20,John,20,Fake,Mahata,1
+21,Sabah,Kuching,2024-01-21,John,20,None,Mahata,0
+22,Selangor,Kuching,2024-01-22,Canyon,20,Blue,Neptune,1
+23,Johor,Kuching,2024-01-23,Canyon,20,Blue,Legal Co,1
+24,Johor,Kota Kinabalu,2024-01-24,Canyon,20,Blue,Milton,0
+25,Sabah,Johor Bahru,2024-01-25,Gudang Garam,20,Blue,Mahata,0
+26,Sarawak,Kuching,2024-01-26,Booston,16,Blue,Milton,1
+27,Selangor,Petaling,2024-01-27,John,16,None,Mahata,1
+28,Sabah,Petaling,2024-01-28,Gudang Garam,20,Blue,Mahata,1
+29,Sabah,Petaling,2024-01-29,Canyon,20,Blue,Mahata,1
+30,Selangor,Petaling,2024-01-30,John,20,None,Legal Co,1
+31,Sabah,Kota Kinabalu,2024-01-31,Gudang Garam,20,Blue,JTM,1
+32,Selangor,Petaling,2024-02-01,Booston,20,None,Milton,1
+33,Selangor,Kuching,2024-02-02,Gudang Garam,20,Blue,Legal Co,1
+34,WP KL,City Center,2024-02-03,Booston,16,Blue,Legal Co,0
+35,WP KL,Petaling,2024-02-04,Canyon,20,None,Legal Co,0
+36,Sarawak,Kota Kinabalu,2024-02-05,Booston,20,None,Legal Co,0
+37,Johor,Kota Kinabalu,2024-02-06,John,20,None,Legal Co,1
+38,Selangor,Petaling,2024-02-07,Canyon,20,None,Neptune,1
+39,Sarawak,City Center,2024-02-08,John,20,None,Milton,1
+40,Johor,Petaling,2024-02-09,U2,20,Blue,Legal Co,0
+41,Selangor,Kota Kinabalu,2024-02-10,Era,20,Blue,Milton,0
+42,Sabah,Johor Bahru,2024-02-11,Booston,20,None,Neptune,0
+43,Selangor,Kuching,2024-02-12,Era,20,None,Neptune,0
+44,WP KL,Kota Kinabalu,2024-02-13,Era,20,Fake,Milton,1
+45,Johor,Petaling,2024-02-14,Booston,20,Blue,Mahata,0
+46,Sarawak,Kuching,2024-02-15,Canyon,20,Blue,JTM,0
+47,Johor,Petaling,2024-02-16,U2,20,None,Mahata,1
+48,Sabah,Petaling,2024-02-17,John,20,Blue,Mahata,0
+49,Sabah,Johor Bahru,2024-02-18,Gudang Garam,20,Fake,Mahata,1
+50,Selangor,Kuching,2024-02-19,John,20,None,Legal Co,1
+51,WP KL,Kuching,2024-02-20,Gudang Garam,20,Blue,Neptune,0
+52,Sarawak,Johor Bahru,2024-02-21,John,20,None,Mahata,1
+53,WP KL,Kota Kinabalu,2024-02-22,Booston,20,None,Neptune,1
+54,WP KL,Petaling,2024-02-23,U2,20,Blue,Milton,1
+55,Sabah,City Center,2024-02-24,Gudang Garam,20,None,JTM,0
+56,WP KL,Petaling,2024-02-25,Canyon,20,None,Milton,1
+57,Selangor,Petaling,2024-02-26,John,20,None,Milton,1
+58,Selangor,Kota Kinabalu,2024-02-27,John,20,Blue,Legal Co,0
+59,Selangor,Petaling,2024-02-28,Gudang Garam,12,None,JTM,1
+60,Johor,Johor Bahru,2024-02-29,Canyon,20,Blue,Milton,1
+61,Johor,Johor Bahru,2024-03-01,Canyon,20,Blue,Milton,1
+62,Johor,Kuching,2024-03-02,Booston,20,None,JTM,0
+63,Sarawak,City Center,2024-03-03,Booston,20,Blue,JTM,1
+64,Johor,Petaling,2024-03-04,Booston,20,Blue,Milton,0
+65,Johor,Petaling,2024-03-05,Booston,20,Fake,JTM,0
+66,Sabah,Kota Kinabalu,2024-03-06,Booston,20,Fake,Milton,0
+67,Selangor,Johor Bahru,2024-03-07,Booston,12,None,Milton,0
+68,Sarawak,City Center,2024-03-08,U2,20,None,Legal Co,0
+69,Selangor,Kuching,2024-03-09,Canyon,20,Pink,Mahata,0
+70,WP KL,Johor Bahru,2024-03-10,Booston,20,Blue,Milton,1
+71,Sarawak,Kuching,2024-03-11,Canyon,20,Blue,Neptune,0
+72,Selangor,Kota Kinabalu,2024-03-12,Canyon,20,None,Mahata,0
+73,Selangor,Kota Kinabalu,2024-03-13,Era,20,None,Mahata,1
+74,Sarawak,Petaling,2024-03-14,U2,20,None,Mahata,1
+75,Sarawak,City Center,2024-03-15,Booston,20,None,Legal Co,1
+76,Sarawak,Kuching,2024-03-16,John,20,Blue,Milton,0
+77,Sarawak,Johor Bahru,2024-03-17,Gudang Garam,20,None,Legal Co,0
+78,Selangor,Kota Kinabalu,2024-03-18,John,12,Blue,Milton,0
+79,Johor,Petaling,2024-03-19,U2,20,None,Legal Co,0
+80,Selangor,Petaling,2024-03-20,Gudang Garam,20,Pink,Legal Co,0
+81,WP KL,Kuching,2024-03-21,U2,20,None,Neptune,0
+82,Sabah,Kota Kinabalu,2024-03-22,Canyon,20,Blue,Legal Co,0
+83,Johor,City Center,2024-03-23,Gudang Garam,20,Blue,JTM,0
+84,Selangor,Kota Kinabalu,2024-03-24,Canyon,20,Blue,Neptune,1
+85,Johor,Kuching,2024-03-25,John,20,None,Legal Co,0
+86,Johor,Kuching,2024-03-26,John,20,None,Mahata,0
+87,Sarawak,Kota Kinabalu,2024-03-27,Gudang Garam,20,Blue,JTM,1
+88,Sabah,Kuching,2024-03-28,Gudang Garam,20,Blue,JTM,1
+89,WP KL,Kota Kinabalu,2024-03-29,Booston,20,None,JTM,0
+90,Sabah,Johor Bahru,2024-03-30,U2,16,Blue,Neptune,1
+91,Selangor,Kota Kinabalu,2024-03-31,Booston,20,None,Legal Co,1
+92,Sarawak,Kota Kinabalu,2024-04-01,U2,20,None,Legal Co,0
+93,Sarawak,Kuching,2024-04-02,Booston,20,Blue,Mahata,1
+94,Sabah,Kuching,2024-04-03,Canyon,20,Blue,Mahata,1
+95,Sarawak,Petaling,2024-04-04,Gudang Garam,20,Fake,JTM,0
+96,Sabah,Petaling,2024-04-05,John,20,Blue,Mahata,0
+97,Sabah,Johor Bahru,2024-04-06,U2,20,Blue,Neptune,1
+98,Johor,Petaling,2024-04-07,U2,20,None,Legal Co,1
+99,Selangor,Kota Kinabalu,2024-04-08,John,20,Fake,JTM,0
+100,Selangor,Kuching,2024-04-09,Booston,20,Fake,Mahata,0

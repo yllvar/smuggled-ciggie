@@ -1,0 +1,4 @@
+scenario,Mean ROI,Median ROI,Std Dev,5th Percentile,95th Percentile
+High Intensity,-0.374,-0.414,0.282,-0.77,0.159
+Low Intensity,-0.358,-0.408,0.342,-0.828,0.29
+Medium Intensity,-0.394,-0.425,0.277,-0.802,0.113

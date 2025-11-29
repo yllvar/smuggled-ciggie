@@ -1,0 +1,51 @@
+{
+  "analysis_date": "2025-11-29T16:44:27.040414",
+  "market_summary": {
+    "total_annual_packs": 1368750000.0,
+    "legal_packs": 617990625.0000001,
+    "illegal_packs": 750759374.9999999,
+    "legal_market_value_rm": 10505840625.000002,
+    "illegal_market_value_rm": 6006074999.999999,
+    "tax_revenue_loss_rm": 9009112499.999998,
+    "avg_illegal_incidence_pct": 54.84999999999999
+  },
+  "top_5_states_by_illegal_incidence": [
+    {
+      "state": "PAHANG",
+      "illegal_incidence_pct": 80.7,
+      "tax_revenue_loss_rm": 946783928.5714285
+    },
+    {
+      "state": "SARAWAK",
+      "illegal_incidence_pct": 80.3,
+      "tax_revenue_loss_rm": 942091071.4285712
+    },
+    {
+      "state": "SABAH",
+      "illegal_incidence_pct": 78.9,
+      "tax_revenue_loss_rm": 925666071.4285715
+    },
+    {
+      "state": "T\u2019GANU",
+      "illegal_incidence_pct": 70.5,
+      "tax_revenue_loss_rm": 827116071.4285712
+    },
+    {
+      "state": "KELANTAN",
+      "illegal_incidence_pct": 60.3,
+      "tax_revenue_loss_rm": 707448214.2857141
+    }
+  ],
+  "best_enforcement_scenario": {
+    "scenario": "Targeted_Operations",
+    "enforcement_operations": 75,
+    "total_cost_rm": 3750000,
+    "seized_packs": 16892085937.500002,
+    "seized_value_rm": 135136687500.00002,
+    "recovered_tax_rm": 202705031250.00003,
+    "total_benefits_rm": 337841718750.00006,
+    "roi_pct": 9009012.500000002,
+    "market_reduction_pct": 2250.000000000001
+  },
+  "total_potential_tax_recovery": 9009112499.999998
+}

@@ -1,0 +1,43 @@
+state,brand,market_share_percent,rank
+Perlis,John,32.5,1
+Perlis,Gudang Garam,4.2,2
+Perlis,Vess,4.1,3
+Kedah,John,14.3,1
+Kedah,Tiara,6.0,2
+Kedah,Misto,3.2,3
+Penang,John,36.4,1
+Penang,Gudang Garam,2.6,2
+Penang,Manchester,1.5,3
+Perak,John,12.9,1
+Perak,D&J,3.9,2
+Perak,Misto,3.1,3
+Selangor,John,8.1,1
+Selangor,L.A.,6.2,2
+Selangor,U2,5.7,3
+WP KL,John,9.4,1
+WP KL,U2,7.8,2
+WP KL,L.A.,6.6,3
+N.Sembilan,A380,9.0,1
+N.Sembilan,Canyon,7.2,2
+N.Sembilan,Misto,6.5,3
+Melaka,John,16.3,1
+Melaka,Booston,13.3,2
+Melaka,Misto,7.4,3
+Johor,Canyon,10.9,1
+Johor,Booston,6.6,2
+Johor,John,5.9,3
+Pahang,John,34.7,1
+Pahang,Gudang Garam,14.9,2
+Pahang,Booston,13.5,3
+Terengganu,John,41.5,1
+Terengganu,Misto,5.8,2
+Terengganu,Saat,5.5,3
+Kelantan,John,31.4,1
+Kelantan,Saat,25.4,2
+Kelantan,Lee,1.8,3
+Sabah,Era,71.7,1
+Sabah,Premium,2.9,2
+Sabah,Gudang Garam,1.7,3
+Sarawak,Era,33.7,1
+Sarawak,Parkway,25.6,2
+Sarawak,Rave,10.2,3

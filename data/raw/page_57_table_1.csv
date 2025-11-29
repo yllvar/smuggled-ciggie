@@ -1,0 +1,21 @@
+State,"Total packs
+collected
+(Jan’24)","Number of
+legal packs
+collected","(Unweighted)
+Volume of legal
+packs collected","Number of
+illegal packs
+collected","(Unweighted)
+Volume of
+illegal packs
+collected","Total
+volume
+(Legal +
+Illegal)","Incidence
+of legal
+cigarettes","Incidence
+of illegal
+cigarettes"
+,,,A,,B,C = A + B,D = A / C,E = B / C
+SELANGOR,"3,200","1,712","34,240","1,488","27,676","61,916",55.3%,44.7%
