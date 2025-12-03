@@ -1,0 +1,35 @@
+{
+  "national_current": 56.4,
+  "forecasts": {
+    "Pahang": {
+      "current": 80.7,
+      "apr_2024": 80.7,
+      "jul_2024": 80.7,
+      "trend": "\u2753 Unknown"
+    },
+    "Sabah": {
+      "current": 78.9,
+      "apr_2024": 78.9,
+      "jul_2024": 78.9,
+      "trend": "\u2753 Unknown"
+    },
+    "Sarawak": {
+      "current": 80.3,
+      "apr_2024": 80.3,
+      "jul_2024": 80.3,
+      "trend": "\u2753 Unknown"
+    },
+    "Terengganu": {
+      "current": 70.5,
+      "apr_2024": 70.5,
+      "jul_2024": 70.5,
+      "trend": "\u2753 Unknown"
+    },
+    "Kelantan": {
+      "current": 60.3,
+      "apr_2024": 60.3,
+      "jul_2024": 60.3,
+      "trend": "\u2753 Unknown"
+    }
+  }
+}
